@@ -5,9 +5,9 @@
 }
 :root {
 	--descreption-color: rgb(207, 207, 207);
-	--main-color: #4856ee;
-	--seacondry-color: #626ffd;
-	--discord-color: #5865f2;
+	--main-color: #8a39cb;
+	--seacondry-color: #a833b7;
+	--discord-color: #4741df;
 	--background-main-color: #212529;
 	--card-background: #2a2d31;
 }
@@ -76,7 +76,7 @@ nav {
 	color: #b1b1b1;
 }
 .active-btn {
-	background-color: #3f4cd8;
+	background-color: #8a39cb;
 	color: #ffffff;
 }
 .btn-premium:hover {
@@ -104,9 +104,9 @@ nav {
 	border: 1px solid #121b2c;
 }
 .premium-tag {
-	background: linear-gradient(90deg, #3f4cd8 0%, #5773cf 100%);
-	border: 1px solid #343ea5;
-	border-bottom: 10px solid #343ea5;
+	background: linear-gradient(90deg, #8a39cb 0%, #348dd6 100%);
+	border: 1px solid #348dd6;
+	border-bottom: 10px solid #348dd6;
 }
 .help-tag {
 	background-color: var(--discord-color);
@@ -180,7 +180,7 @@ hr {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-	background: #3c48c5;
+	background: #348dd6;
 }
 
 ::placeholder {
